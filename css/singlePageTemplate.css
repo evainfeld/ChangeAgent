@@ -22,7 +22,7 @@ body {
 /* Navigation */
 header {
 	width: 100%;
-	height: 14.5%;
+	height: 13.5%;
 	background-color: #242424;
 	border-bottom: 1px solid #2C9AB7;
 }
@@ -33,7 +33,7 @@ header {
 	text-align: center;
 	width: 100%;
 	float: left;
-	margin-top: 0px;
+	margin-top: 10px;
 	margin-left: 0px;
 	letter-spacing: 4px;
 }
