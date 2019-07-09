@@ -1,7 +1,7 @@
 C:\Users\Lenovo\Pictures\portrety@charset "UTF-8";
 /* Body */
 body {
-	font-family: source-sans-pro;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	background-color: #f2f2f2;
 	margin-top: 0px;
 	margin-right: 0px;
@@ -104,6 +104,7 @@ ul li:hover a {
 	float: left;
 	padding-left: 20px;
 	padding-right: 20px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
 	color: #464646;
 	font-size: 20px;
 	}
