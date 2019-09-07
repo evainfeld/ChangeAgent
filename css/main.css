@@ -81,6 +81,12 @@ body{
 	background: #faf9f9;
 	padding: 0px;
 	margin: 0px;
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+
 }
 
 a:focus{
@@ -405,6 +411,7 @@ a.app_link{
 	padding: 100px 0;
 	text-align: justify;
 	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-shadow: none;
 }
 
 .about .iphone{
@@ -424,7 +431,7 @@ a.app_link{
 }
 
 .about .features_list h1{
-	color: #525151;
+	color: #555;
 	font-family: "open_bold", Helvetica, Arial, sans-serif;
 	font-size: 34px;
 	font-weight: bold;
@@ -434,8 +441,8 @@ a.app_link{
 }
 
 .about .features_list p{
-	color: #767272;
-	font-family: "open_regular", Helvetica, Arial, sans-serif;
+	color: #333;
+	font-family: "open_semibold", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	margin-bottom: 45px;
 	line-height: 32px;
@@ -448,7 +455,7 @@ a.app_link{
 .about .features_list ul li{
 	display: block;
 	position: relative;
-	color: #6c6c6c;
+	color: #333;
 	font-family: "open_semibold", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	line-height: 44px;
@@ -550,6 +557,7 @@ a.app_link{
 .testimonials{
 	padding: 100px 0;
 	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-shadow: none;
 }
 
 .testimonials .testimonials_list{
