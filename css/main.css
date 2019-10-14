@@ -124,7 +124,7 @@ header{
 
 header .logo{
 	display: table-cell;
-	margin: 15px 100px 0 0;
+	margin: 0px 100px 0 0;
 }
 
 header .burger_icon{
