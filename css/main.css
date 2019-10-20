@@ -116,10 +116,6 @@ header{
 	height: 1px;
 	z-index: 99;
 	background-color: #242424;
-	background-image: -moz-linear-gradient(bottom, #242424 0%, #242424 0.27%, #242424 99.46%, #242424 100%);
-	background-image: -o-linear-gradient(bottom, #242424 0%, #2424246 0.27%, #242424 99.46%, #242424 100%);
-	background-image: -webkit-linear-gradient(bottom, #242424 0%, #242424 0.27%, #242424 99.46%, #242424 100%);
-	background-image: linear-gradient(bottom, #242424 0%, #242424 0.27%, #242424 99.46%, #242424 100%);
 }
 
 header .logo{
@@ -875,8 +871,20 @@ footer .copyright a{
 
 
 	/*		Hero section 		*/
+	.hero {
+	display: block;
+	position: relative;
+	width: 100%;
+	height: 800px;
+	background: url('../img/hero2.jpg') no-repeat fixed left;	
+	background-size: cover;
+	background-position: left;
+	}
+	
+	
 	.hero .caption{
 		margin-left: 0;
+			width: 90%;
 	}
 
 	.app_store_btn{
