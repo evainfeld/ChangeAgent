@@ -556,7 +556,7 @@ a.app_link{
 /*		Testimonials section 		*/
 
 .testimonials{
-	padding: 100px 0;
+	padding: 30px 0;
 	font-family:  Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	text-shadow: none;
 }
@@ -587,6 +587,12 @@ a.app_link{
 .testimonials .testimonials_list blockquote .author,
 .testimonials .testimonials_list blockquote .job{
 	display: block;
+}
+
+.testimonials .testimonials_list blockquote .author1{
+	color: #111;
+	font-size: 32px;
+	margin-bottom: 10px; 
 }
 
 .testimonials .testimonials_list blockquote .author{
