@@ -113,9 +113,9 @@ header{
 	position: relative;
 	display: block;
 	width: 100%;
-	height: 1px;
+	height: 200px;
 	z-index: 99;
-	background-color: #242424;
+	background-color: #100;
 }
 
 header .logo{
@@ -212,8 +212,9 @@ header .social li:first-child{
 	display: block;
 	position: relative;
 	width: 100%;
-	height: 800px;
+	height: 600px;
 	background: url('../img/hero.jpg') no-repeat fixed right;	
+	background-image: linear-gradient(#6b1224, black);
 	background-size: cover;
 	background-position: right;
 }
@@ -875,8 +876,8 @@ footer .copyright a{
 	display: block;
 	position: relative;
 	width: 100%;
-	height: 800px;
-	background: url('../img/hero2.jpg') no-repeat fixed left;	
+	height: 600px;
+    background-image: linear-gradient(#6b1224, black);	
 	background-size: cover;
 	background-position: left;
 	}
