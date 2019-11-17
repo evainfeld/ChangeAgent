@@ -115,7 +115,7 @@ header{
 	width: 100%;
 	height: 185px;
 	z-index: 99;
-	background-image: linear-gradient(#90fbff ,black);
+	background-image: linear-gradient(#016480 ,black);
 }
 
 header .logo{
@@ -213,7 +213,7 @@ header .social li:first-child{
 	position: relative;
 	width: 100%;
 	height: 550px;	
-	background-image: linear-gradient(black,black,#152626, black);
+	background-image: linear-gradient(black,black);
 	background-size: cover;
 	background-position: right;
 }
@@ -230,7 +230,7 @@ header .social li:first-child{
 }
 
 .hero .caption h1{
-	color: #6bbcbf;
+	color: #68b8d8;
 	font-family: "open_bold", Helvetica, Arial, sans-serif;
 	font-size: 34px;
 	font-weight: bold;
@@ -238,7 +238,7 @@ header .social li:first-child{
 }
 
 .hero .caption p{
-	color: #6bbcbf;
+	color: #9ad0e5;
 	text-align: justify;
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	font-size: 20px;
@@ -254,13 +254,13 @@ a.app_store_btn{
 	display: inline-block;
 	text-decoration: none;
 	padding: 15px 40px;
-	border: 2px solid #6bbcbf;
+	border: 2px solid #9ad0e5;
 	-moz-border-radius: 2px;
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	margin: 20px 20px 10px 0;
 
-	color: #6bbcbf;
+	color: #68b8d8;
 	font-family: "open_semibold", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 }
