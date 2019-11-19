@@ -230,17 +230,20 @@ header .social li:first-child{
 }
 
 .hero .caption h1{
-	color: #68b8d8;
-	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: #fff;
+	text-align: justify;
+	font-family: Roboto;
+	font-weight: 200 !important;
 	font-size: 34px;
 	font-weight: bold;
 	word-break: break-word;
 }
 
 .hero .caption p{
-	color: #9ad0e5;
+	color: #fff;
 	text-align: justify;
 	font-family: Roboto;
+	font-weight: 200 !important;
 	font-size: 20px;
 	line-height: 30px;
 	margin: 15px 0 35px 0;
@@ -254,14 +257,15 @@ a.app_store_btn{
 	display: inline-block;
 	text-decoration: none;
 	padding: 15px 40px;
-	border: 2px solid #9ad0e5;
+	border: 1px solid #fff;
 	-moz-border-radius: 2px;
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 	margin: 20px 20px 10px 0;
 
-	color: #68b8d8;
-	font-family: "open_semibold", Helvetica, Arial, sans-serif;
+	color: #fff;
+	font-family: Roboto;
+	font-weight: 200 !important;
 	font-size: 16px;
 }
 
